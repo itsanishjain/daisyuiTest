@@ -3,7 +3,7 @@ import { navItems } from "@/constants";
 
 const Navigation = () => {
   return (
-    <div className="navbar p-4 bg-base-300">
+    <div className="navbar p-4 bg-base-200">
       <div className="navbar-start">
         <Link href="/">
           <span className="">logo</span>
